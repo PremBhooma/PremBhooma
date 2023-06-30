@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhoomasagar1213@gmail.com**
 
-- ⚡ Fun fact **🎉 Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is widely regarded as the first person to write a program for Charles Babbage's Analytical Engine in the mid-1800s. Her contributions to computer science laid the foundation for the digital age we live in today. 💻🚀**
+- ⚡ Fun fact **🎉 Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is widely regarded as the first person to write a program for Charles Babbage's Analytical Engine in the mid-1800s. Her contributions to computer science laid the foundation for the digital age we live in today... 💻🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
