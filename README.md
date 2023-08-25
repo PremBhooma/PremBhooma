@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, MangaDB**
 
-- - 👨‍💻 All of my projects are available at [PremBhooma.github.io](https://prembhooma.github.io/)
+- 👨‍💻 All of my projects are available at [PremBhooma.github.io](https://prembhooma.github.io/)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, React, NodeJS, MangaDB**
 
